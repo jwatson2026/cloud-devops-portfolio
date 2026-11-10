@@ -33,7 +33,7 @@ Each project demonstrates practical skills in deploying, managing, testing, and 
 
 ---
 
-## Project 3: AWS EKS Application Deployment
+## Project 3: AWS EKS Application Deployment & Recovery
 
 **Technologies:** AWS EKS, EC2, Kubernetes, Nginx, AWS CLI, kubectl
 
@@ -41,7 +41,7 @@ Each project demonstrates practical skills in deploying, managing, testing, and 
 
 **Skills demonstrated:** Managed Kubernetes, application deployment, scalability, self-healing, and cloud resource cleanup.
 
-**GitHub:** https://github.com/jwatson2026/aws-eks-nginx-lab
+**GitHub:** https://github.com/jwatson2026/aws-eks-application-deployment
 
 ---
 
